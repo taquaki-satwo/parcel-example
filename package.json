@@ -2,5 +2,11 @@
   "name": "parcel-example",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "repository": "git@github.com:taquaki-satwo/parcel-example.git",
+  "author": "Takaaki Sato <taquaki-satwo@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "node-sass": "^4.7.2"
+  }
 }
